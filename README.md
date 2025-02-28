@@ -8,7 +8,7 @@ My expertise lies in developing **innovative, optimized, and scalable solutions*
 ## What I Do:
 
 - 🧠 **Machine Learning**: Expertise in building predictive models, NLP solutions, DeepRL projects, and leveraging LLMs to solve complex challenges.
-- 🛠 **Software Development**: Proficient in Python, SQL, golang, and designing and creating scalable architectures.
+- 🛠 **Software Development**: Proficient in Python, SQL, Go, designing and creating scalable architectures.
 - 📊 **Research**: Published researcher specializing in Machine Learning and Optimization, passionate about leveraging cutting-edge techniques to uncover actionable insights and deliver impactful value.
 ---
 
