@@ -17,5 +17,5 @@ My expertise lies in developing **innovative, optimized, and scalable solutions*
 Let’s discuss how we can collaborate to build impactful solutions!
 
 - [LinkedIn](https://www.linkedin.com/in/mariem-ben-ahmed-2073501b6/)
-- [GitHub]([https://github.com/akshada2712/](https://github.com/MyriamBA))
+- [GitHub](https://github.com/MyriamBA)
 - [Twitter](https://x.com/myriambenahmed5) 
