@@ -14,7 +14,7 @@ My expertise lies in developing **innovative, optimized, and scalable solutions*
 ---
 
 ## Publications:
-- [Optimization of a Redox-Flow Battery Simulation Model Based on a Deep Reinforcement Learning Approach](https://www.mdpi.com/2313-0105/10/1/8)
+- Ben Ahmed, M., et al. (2023).[Optimization of a Redox-Flow Battery Simulation Model Based on a Deep Reinforcement Learning Approach](https://www.mdpi.com/2313-0105/10/1/8), MDPI Journal.
 
 ---
 
