@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariem.</h1>
 
 I'm **Mariem Ben Ahmed**, an **IT Engineer** specializing in **Machine Learning**, **Generative AI**, and **Software Development**.  
-My expertise lies in developing **innovative, optimized, and scalable solutions** that leverage data-driven insights to solve real-world problems. Passionate about exploring the potential of Generative AI, AI agents, and its applications in different fields.😊
+My expertise lies in developing **innovative, optimized, and scalable solutions** that leverage data-driven insights to solve real-world problems. Passionate about exploring the potential of **Generative AI**, **AI agents**, and their applications in different fields.😊
 
 ---
 
