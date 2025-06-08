@@ -11,7 +11,7 @@ To find out more about me, you can ask my [Agentic Career Assistant](https://www
 
 - 🧠 **Machine Learning**: Expertise in building predictive models, NLP solutions, DeepRL projects, and leveraging LLMs to solve complex challenges.
 - 🛠 **Software Development**: Proficient in Python, SQL, designing and creating scalable architectures.
-- 📊 **Research**: Published researcher specializing in Machine Learning and Optimization, passionate about leveraging cutting-edge techniques to uncover actionable insights and deliver impactful value.
+- 📊 **Research**: Published researcher specializing in Machine Learning, passionate about leveraging cutting-edge techniques to uncover actionable insights and deliver impactful value.
 
 ---
 
